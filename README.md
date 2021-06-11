@@ -1,10 +1,13 @@
-### Hi there 👋
+### Hi there, 👋
+
+I'm Alexis A. Marroquin. I'm a full-stack developer.
+
+### Github Stats
+
+[![Alexis Marroquin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexismarroquin7&show_icons=true&count_private=true)](https://github.com/alexismarroquin7)
+
 
 <!--
-**alexismarroquin7/alexismarroquin7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
