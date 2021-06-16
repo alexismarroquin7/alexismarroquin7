@@ -8,7 +8,6 @@ I'm Alexis Marroquin. I'm a full-stack developer who is passionate about buildin
 
 - 🌱 I’m currently learning Puppeteer
 - 👯 I’m looking to collaborate on Node and React
-- 💬 Ask me about: programming, database schemas
+- 💬 Ask me about: programming
 - 📫 How to reach me: https://www.linkedin.com/in/alexis-marroquin7/
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: My most played genre of music is reggaeton.
