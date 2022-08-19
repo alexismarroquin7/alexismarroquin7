@@ -8,6 +8,6 @@ I'm Alexis Marroquin. I'm a developer who is passionate about building technolog
 
 - 🌱 I’m currently learning Next.js
 - 👯 I’m looking to collaborate on front-end and back-end javascript projects
-- 💬 Ask me about: programming, single-page applications, and database design
-- 📫 How to reach me: https://www.linkedin.com/in/alexis-marroquin7/
+- 💬 Ask me about: programming, single-page applications, and relational database design
+- 📫 How to reach me: alexismarroquinsocial@gmail.com
 - ⚡ Fun fact: My most played genre of music is reggaeton.
